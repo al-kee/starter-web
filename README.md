@@ -15,3 +15,4 @@ Sample deployment instructions
 
 Some credits here
 
+## Copyright
