@@ -6,6 +6,9 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
+## Contribute
+
+Please fork and do something and then blah blah
 
 ## Deployment
 
