@@ -20,4 +20,4 @@ Some credits here
 
 ## Copyright
 
-2024 Copyright
+2024 Copyright All Rights Reserved
